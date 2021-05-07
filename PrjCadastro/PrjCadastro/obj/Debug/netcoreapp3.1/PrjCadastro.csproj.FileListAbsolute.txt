@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\bin\Debug\netcoreapp3.1\PrjCadastro.exe
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\bin\Debug\netcoreapp3.1\PrjCadastro.deps.json
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\bin\Debug\netcoreapp3.1\PrjCadastro.runtimeconfig.json
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\bin\Debug\netcoreapp3.1\PrjCadastro.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\bin\Debug\netcoreapp3.1\PrjCadastro.dll
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\bin\Debug\netcoreapp3.1\PrjCadastro.pdb
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.Form1.resources
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.dll
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.pdb
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\PrjCadastro\PrjCadastro\obj\Debug\netcoreapp3.1\PrjCadastro.Properties.Resources.resources
