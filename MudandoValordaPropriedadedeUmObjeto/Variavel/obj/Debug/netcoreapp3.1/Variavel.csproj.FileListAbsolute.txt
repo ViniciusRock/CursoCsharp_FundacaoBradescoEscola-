@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.exe
+C:\Users\Administrador\source\repos\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.deps.json
+C:\Users\Administrador\source\repos\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.runtimeconfig.json
+C:\Users\Administrador\source\repos\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.dll
+C:\Users\Administrador\source\repos\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.pdb
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.Form1.resources
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.dll
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.pdb
+C:\Users\Administrador\source\repos\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.genruntimeconfig.cache
