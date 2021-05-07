@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\bin\Debug\netcoreapp3.1\CalculoMedia.exe
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\bin\Debug\netcoreapp3.1\CalculoMedia.deps.json
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\bin\Debug\netcoreapp3.1\CalculoMedia.runtimeconfig.json
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\bin\Debug\netcoreapp3.1\CalculoMedia.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\bin\Debug\netcoreapp3.1\CalculoMedia.dll
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\bin\Debug\netcoreapp3.1\CalculoMedia.pdb
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.Form1.resources
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.dll
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.pdb
+C:\Users\Administrador\source\repos\CalculoMedia\CalculoMedia\obj\Debug\netcoreapp3.1\CalculoMedia.genruntimeconfig.cache
