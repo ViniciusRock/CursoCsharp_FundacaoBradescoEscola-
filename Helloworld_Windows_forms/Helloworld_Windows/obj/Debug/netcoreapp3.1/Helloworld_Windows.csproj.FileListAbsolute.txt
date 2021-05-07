@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\netcoreapp3.1\Helloworld_Windows.exe
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\netcoreapp3.1\Helloworld_Windows.deps.json
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\netcoreapp3.1\Helloworld_Windows.runtimeconfig.json
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\netcoreapp3.1\Helloworld_Windows.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\netcoreapp3.1\Helloworld_Windows.dll
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\netcoreapp3.1\Helloworld_Windows.pdb
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.Form1.resources
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.dll
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.pdb
+C:\Users\Administrador\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\netcoreapp3.1\Helloworld_Windows.genruntimeconfig.cache
