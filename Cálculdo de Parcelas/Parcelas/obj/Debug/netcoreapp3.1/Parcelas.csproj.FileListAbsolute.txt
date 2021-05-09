@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.Form1.resources
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\bin\Debug\netcoreapp3.1\Parcelas.exe
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\bin\Debug\netcoreapp3.1\Parcelas.deps.json
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\bin\Debug\netcoreapp3.1\Parcelas.runtimeconfig.json
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\bin\Debug\netcoreapp3.1\Parcelas.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\bin\Debug\netcoreapp3.1\Parcelas.dll
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\bin\Debug\netcoreapp3.1\Parcelas.pdb
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.dll
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.pdb
+C:\Users\Administrador\source\repos\Parcelas\Parcelas\obj\Debug\netcoreapp3.1\Parcelas.genruntimeconfig.cache
