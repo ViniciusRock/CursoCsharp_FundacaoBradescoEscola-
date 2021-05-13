@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.exe
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.deps.json
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.runtimeconfig.json
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.dll
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.pdb
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.Form1.resources
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.dll
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.pdb
+C:\Users\Administrador\source\repos\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.genruntimeconfig.cache
