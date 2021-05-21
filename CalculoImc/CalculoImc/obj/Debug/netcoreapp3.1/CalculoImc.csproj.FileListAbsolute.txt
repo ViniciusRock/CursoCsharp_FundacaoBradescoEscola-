@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\bin\Debug\netcoreapp3.1\CalculoImc.exe
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\bin\Debug\netcoreapp3.1\CalculoImc.deps.json
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\bin\Debug\netcoreapp3.1\CalculoImc.runtimeconfig.json
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\bin\Debug\netcoreapp3.1\CalculoImc.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\bin\Debug\netcoreapp3.1\CalculoImc.dll
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\bin\Debug\netcoreapp3.1\CalculoImc.pdb
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.Form1.resources
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.dll
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.pdb
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\CalculoImc\CalculoImc\obj\Debug\netcoreapp3.1\CalculoImc.Properties.Resources.resources
