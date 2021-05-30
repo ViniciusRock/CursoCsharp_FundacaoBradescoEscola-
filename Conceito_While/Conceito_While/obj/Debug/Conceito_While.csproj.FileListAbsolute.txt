@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\bin\Debug\Conceito_While.exe.config
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\bin\Debug\Conceito_While.exe
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\bin\Debug\Conceito_While.pdb
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\obj\Debug\Conceito_While.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\obj\Debug\Conceito_While.Form1.resources
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\obj\Debug\Conceito_While.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\obj\Debug\Conceito_While.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\obj\Debug\Conceito_While.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\obj\Debug\Conceito_While.exe
+C:\Users\Administrador\source\repos\Conceito_While\Conceito_While\obj\Debug\Conceito_While.pdb
