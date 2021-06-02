@@ -1,0 +1,9 @@
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\bin\Debug\Teste_FOR.exe.config
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\bin\Debug\Teste_FOR.exe
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\bin\Debug\Teste_FOR.pdb
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.Form1.resources
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.exe
+C:\Users\Administrador\source\repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.pdb
